@@ -4,7 +4,7 @@
   
 > remake from <a href="https://github.com/IndonesianDev/whatsapp-bot">Resource</a>
 
-> Ribot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message ||
+> Ribot Adalah Bot Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message ||
 
 # Thanks to
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
